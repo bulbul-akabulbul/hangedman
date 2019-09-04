@@ -1,2 +1,0 @@
-# hangedman
-Created with CodeSandbox
